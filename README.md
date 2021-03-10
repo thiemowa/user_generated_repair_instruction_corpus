@@ -5,5 +5,6 @@ Corpus.zip: the corpus inclusding an undersampled data set and an oversampled da
 
 
 # Citation
-If you use the data, cite the following publication
+If you use the data, cite the following publication:
+
 Thiemo Wambsganss and Christian Engel (2021) “Using Deep Learning for Extracting User-Generated Knowledge from Web Communities" In: Twenty-Ninth European Conference on Information Systems (ECIS 2021), Marrakesh, Morocco.
